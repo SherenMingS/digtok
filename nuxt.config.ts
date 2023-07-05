@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   modules: [
     'nuxt-icon',
     '@pinia/nuxt',
-    '@pinia-plugin-persistedstate/nuxt'
+    '@pinia-plugin-persistedstate/nuxt',
   ],
   postcss: {
     plugins: {
